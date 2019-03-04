@@ -1,0 +1,6 @@
+.Rhistory
+.Rproj.user
+.Ruserdata
+.RData
+my-data/
+*.csv
